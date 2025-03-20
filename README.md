@@ -23,3 +23,4 @@ Version Control: **Git**
 - [Oracle Java Documentation](https://docs.oracle.com/en/java/)
 - [Swing Tutorial](https://docs.oracle.com/javase/tutorial/uiswing/)
 - [OpenWeather API](https://openweathermap.org/)
+- [Tutorial](https://www.google.com/search?q=java+Weather+Forecast+App&oq=java+Weather+Forecast+App&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB4yCAgCEAAYFhge0gEJMTAzNzVqMGo0qAIAsAIA&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:040f2dc5,vid:8ZcEYv2ezWc,st:0)
