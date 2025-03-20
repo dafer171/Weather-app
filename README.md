@@ -8,7 +8,6 @@ This is a Java-based Weather Forecast application that retrieves real-time weath
 
 The purpose of creating this software is to improve my Java skills, particularly in working with APIs and building a graphical user interface. Since Java is widely used in my workplace, learning it will help me grow as a software engineer and prepare for future development opportunities.
 
-[Software Demo Video]([https://youtu.be/qspxNiNzUks](https://youtu.be/XpCIbKTp5fw))
 
 # Development Environment
 
